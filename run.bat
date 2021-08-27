@@ -1,1 +1,1 @@
-t.py
+python t.py
